@@ -1,0 +1,142 @@
+Welcome to your friendly neighborhood doctor's office!
+
+Type D for Doctor or P for Patient.
+Type any other key to quit the program. R
+Room List
+==========================================================
+Room #  Available Doctor's Name       Specialty Wait List ----------------------------------------------------------
+1       YES                                     0         
+2       YES                                     0         
+3       YES                                     0         
+4       YES                                     0         
+5       YES                                     0         
+6       YES                                     0         
+7       YES                                     0         
+8       YES                                     0         
+9       YES                                     0         
+10      YES                                     0         
+11      YES                                     0         
+12      YES                                     0         
+13      YES                                     0         
+14      YES                                     0         
+15      YES                                     0         
+16      YES                                     0         
+17      YES                                     0         
+18      YES                                     0         
+19      YES                                     0         
+20      YES                                     0         
+21      YES                                     0         
+22      YES                                     0         
+23      YES                                     0         
+24      YES                                     0         
+25      YES                                     0         
+26      YES                                     0         
+27      YES                                     0         
+28      YES                                     0         
+29      YES                                     0         
+30      YES                                     0         
+31      YES                                     0         
+32      YES                                     0         
+33      YES                                     0         
+34      YES                                     0         
+35      YES                                     0         
+36      YES                                     0         
+37      YES                                     0         
+38      YES                                     0         
+39      YES                                     0         
+40      YES                                     0         
+41      YES                                     0         
+42      YES                                     0         
+43      YES                                     0         
+44      YES                                     0         
+45      YES                                     0         
+46      YES                                     0         
+47      YES                                     0         
+48      YES                                     0         
+49      YES                                     0         
+50      YES                                     0         
+51      YES                                     0         
+52      YES                                     0         
+53      YES                                     0         
+54      YES                                     0         
+55      YES                                     0         
+56      YES                                     0         
+57      YES                                     0         
+58      YES                                     0         
+59      YES                                     0         
+60      YES                                     0         
+61      YES                                     0         
+62      YES                                     0         
+63      YES                                     0         
+64      YES                                     0         
+65      YES                                     0         
+66      YES                                     0         
+67      YES                                     0         
+68      YES                                     0         
+69      YES                                     0         
+70      YES                                     0         
+71      YES                                     0         
+72      YES                                     0         
+73      YES                                     0         
+74      YES                                     0         
+75      YES                                     0         
+76      YES                                     0         
+77      YES                                     0         
+78      YES                                     0         
+79      YES                                     0         
+80      YES                                     0         
+81      YES                                     0         
+82      YES                                     0         
+83      YES                                     0         
+84      YES                                     0         
+85      YES                                     0         
+86      YES                                     0         
+87      YES                                     0         
+88      YES                                     0         
+89      YES                                     0         
+90      YES                                     0         
+91      YES                                     0         
+92      YES                                     0         
+93      YES                                     0         
+94      YES                                     0         
+95      YES                                     0         
+96      YES                                     0         
+97      YES                                     0         
+98      YES                                     0         
+99      YES                                     0         
+100     YES                                     0         
+
+
+Type D for Doctor or P for Patient.
+Type any other key to quit the program. D
+
+Type I for check-in or O for check-out.
+Type any other key to go back: I
+
+Enter your name: Dr. Kaufman
+What is your specialty code? Select from the list below:
+
+	1. PED		Pediatrics
+	2. GEN		General Practice
+	3. INT		Internal Medicine
+	4. CAR		Cardiology
+	5. SUR		Surgeon
+	6. OBS		Obstetrics
+	7. PSY		Psychiatry
+	8. NEU		Neurology
+	9. ORT		Orthopedics
+	10. DET		Dermatology
+	11. OPT		Opthalmology
+	12. ENT		Ear, Nose, and Throat
+
+Enter your selection: 1
+What room number do you prefer? (1-100): 34
+
+You have been successfully checked in.
+
+
+Type D for Doctor or P for Patient.
+Type any other key to quit the program. q
+
+Are you sure you want to quit? (y/n): 
+Thanks for using the program!
